@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Finie
-- 👀 I’m interested in Mobile and Web app development
-- 🌱 I’m currently learning Java Spring boot
-- 💞️ I’m looking to collaborate on mobile and web app development as well as building microservices
+- 👀 I’m interested in Frontend and Backend software development
+- 🌱 I’m currently learning ML, and engaged in competitive programing.
+- 💞️ I’m looking to collaborate in software development in Java spring boot, React, React-Native, android, ios 
 - 📫 How to reach me email: finiephenius@gmail.com
 
 <!---
